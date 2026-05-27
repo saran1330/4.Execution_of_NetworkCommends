@@ -25,7 +25,8 @@ This commands includes
 <BR>
 • Other IP Commands e.g. show ip route etc.
 <BR>
-#PROGRAM
+
+## program
 SERVER:
 ```
 import socket
@@ -103,11 +104,30 @@ while True:
 s.close()
 ```
 
-
-
 ## Output
-<img width="1833" height="1015" alt="Screenshot 2026-05-27 082956" src="https://github.com/user-attachments/assets/f0211917-0245-4276-9d86-e39dda82e866" />
+<img width="1090" height="315" alt="Screenshot 2026-05-20 081929" src="https://github.com/user-attachments/assets/3cc3557f-c822-49bf-8d7b-264244d4d19f" />
 
+NETSTAT:
+<img width="1101" height="1017" alt="Screenshot 2026-05-20 090358" src="https://github.com/user-attachments/assets/a1c66064-5d84-47bd-aa4d-5619e346a88a" />
+IPCONFIG:
+<img width="1086" height="752" alt="Screenshot 2026-05-20 090449" src="https://github.com/user-attachments/assets/d2eea2c0-07d8-461e-832a-c9d0f5b3f02a" />
+PING:
+<img width="1092" height="427" alt="Screenshot 2026-05-20 090536" src="https://github.com/user-attachments/assets/b019b2de-463d-4533-9d74-e296a2cf5ad9" />
+TRACERT:
+<img width="1082" height="557" alt="Screenshot 2026-05-20 090702" src="https://github.com/user-attachments/assets/82890372-fc34-4e96-86f3-1bde9edf63ae" />
+NSLOOKUP:
+<img width="1082" height="577" alt="Screenshot 2026-05-20 090835" src="https://github.com/user-attachments/assets/d29f36a0-e520-44f4-9319-d91d52aff257" />
+GETMAC:
+<img width="1106" height="340" alt="Screenshot 2026-05-20 090923" src="https://github.com/user-attachments/assets/ec717bff-d253-41dc-9f1e-6050af3b4396" />
+HOSTNAME:
+<img width="1095" height="220" alt="Screenshot 2026-05-20 090954" src="https://github.com/user-attachments/assets/b51c6418-9054-4f9c-af42-2501773f704b" />
+NBTSTAT:
+<img width="1113" height="767" alt="Screenshot 2026-05-20 091026" src="https://github.com/user-attachments/assets/6f2ad6a7-8b61-44b2-bd7b-0dffc27cf188" />
+ARP:
+<img width="1095" height="840" alt="Screenshot 2026-05-20 091119" src="https://github.com/user-attachments/assets/e0722ebc-edd8-4bdb-a93a-51d61c874628" />
+SYSTEMINFO:
+
+<img width="687" height="972" alt="Screenshot 2026-05-20 091222" src="https://github.com/user-attachments/assets/65622aa1-79fc-4331-825b-e2e41fcfc31d" />
 
 ## Result
 Thus Execution of Network commands Performed 
